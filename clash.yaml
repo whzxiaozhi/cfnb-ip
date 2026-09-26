@@ -1,132 +1,6 @@
 proxies:
-- name: NL
-  server: 162.211.231.120
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: DE
-  server: 88.218.193.1
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: GB
-  server: 185.49.33.34
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: SG
-  server: 38.55.198.210
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: HK
-  server: 45.136.14.153
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: SG 2
-  server: 172.237.91.206
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: HK 2
-  server: 38.207.177.113
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: DK
-  server: 92.113.145.132
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: GB 2
-  server: 185.155.235.58
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: IN
-  server: 68.233.107.29
+- name: TW
+  server: 60.249.21.30
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -140,49 +14,7 @@ proxies:
     headers:
       Host: whzxiaozhi.ccwu.cc
 - name: JP
-  server: 172.104.80.248
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: TW
-  server: 207.56.137.174
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: TW 2
-  server: 140.235.38.78
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: JP 2
-  server: 137.220.225.111
+  server: 172.104.77.231
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -209,8 +41,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: HK 3
-  server: 141.11.238.183
+- name: DE
+  server: 45.147.48.28
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -223,8 +55,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: HK 4
-  server: 68.64.183.37
+- name: DE 2
+  server: 88.218.193.1
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -237,8 +69,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: HK 5
-  server: 85.121.245.35
+- name: ID
+  server: 172.232.240.6
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -251,8 +83,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: HK 6
-  server: 16.163.174.115
+- name: CA
+  server: 172.93.32.237
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -265,8 +97,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: SG 3
-  server: 185.115.207.82
+- name: PH
+  server: 61.245.11.45
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -279,8 +111,8 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: KR 2
-  server: 64.110.82.71
+- name: MY
+  server: 166.88.7.211
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -293,8 +125,22 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
-- name: KR 3
-  server: 158.247.224.240
+- name: HK
+  server: 43.175.131.30
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: JP 2
+  server: 172.104.80.248
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -308,7 +154,161 @@ proxies:
     headers:
       Host: whzxiaozhi.ccwu.cc
 - name: JP 3
-  server: 139.162.72.62
+  server: 13.231.172.130
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: TW 2
+  server: 43.213.230.249
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: SG
+  server: 38.55.198.210
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: SG 2
+  server: 172.104.180.121
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: SG 3
+  server: 104.64.192.116
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: KR 2
+  server: 45.93.30.168
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: KR 3
+  server: 45.93.31.34
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: HK 2
+  server: 178.83.206.103
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: HK 3
+  server: 149.104.29.237
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: HK 4
+  server: 45.152.67.18
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: HK 5
+  server: 207.57.132.107
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
+- name: HK 6
+  server: 83.229.126.137
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -322,20 +322,6 @@ proxies:
     headers:
       Host: whzxiaozhi.ccwu.cc
 - name: US
-  server: 69.63.212.210
-  port: 443
-  type: vless
-  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
-  tls: true
-  skip-cert-verify: false
-  servername: whzxiaozhi.ccwu.cc
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
-    headers:
-      Host: whzxiaozhi.ccwu.cc
-- name: US 2
   server: 185.65.151.81
   port: 443
   type: vless
@@ -349,8 +335,22 @@ proxies:
     path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
     headers:
       Host: whzxiaozhi.ccwu.cc
+- name: US 2
+  server: 216.40.87.253
+  port: 443
+  type: vless
+  uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
+  tls: true
+  skip-cert-verify: false
+  servername: whzxiaozhi.ccwu.cc
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /proxyip=proxyip.aliyun.fxxk.dedyn.io,proxyip.oracle.fxxk.dedyn.io
+    headers:
+      Host: whzxiaozhi.ccwu.cc
 - name: US 3
-  server: 23.138.12.90
+  server: 179.253.248.201
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -364,7 +364,7 @@ proxies:
     headers:
       Host: whzxiaozhi.ccwu.cc
 - name: US 4
-  server: 144.225.255.169
+  server: 154.23.240.225
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -378,7 +378,7 @@ proxies:
     headers:
       Host: whzxiaozhi.ccwu.cc
 - name: US 5
-  server: 77.73.8.226
+  server: 216.40.87.141
   port: 443
   type: vless
   uuid: c7dc0b56-a8c0-444f-8f80-8e0b31b81143
@@ -399,29 +399,29 @@ proxy-groups:
       - ⚡ 故障转移
       - 🔀 负载均衡
       - DIRECT
-      - NL
-      - DE
-      - GB
-      - SG
-      - HK
-      - SG 2
-      - HK 2
-      - DK
-      - GB 2
-      - IN
-      - JP
       - TW
-      - TW 2
-      - JP 2
+      - JP
       - KR
+      - DE
+      - DE 2
+      - ID
+      - CA
+      - PH
+      - MY
+      - HK
+      - JP 2
+      - JP 3
+      - TW 2
+      - SG
+      - SG 2
+      - SG 3
+      - KR 2
+      - KR 3
+      - HK 2
       - HK 3
       - HK 4
       - HK 5
       - HK 6
-      - SG 3
-      - KR 2
-      - KR 3
-      - JP 3
       - US
       - US 2
       - US 3
@@ -432,29 +432,29 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - NL
-      - DE
-      - GB
-      - SG
-      - HK
-      - SG 2
-      - HK 2
-      - DK
-      - GB 2
-      - IN
-      - JP
       - TW
-      - TW 2
-      - JP 2
+      - JP
       - KR
+      - DE
+      - DE 2
+      - ID
+      - CA
+      - PH
+      - MY
+      - HK
+      - JP 2
+      - JP 3
+      - TW 2
+      - SG
+      - SG 2
+      - SG 3
+      - KR 2
+      - KR 3
+      - HK 2
       - HK 3
       - HK 4
       - HK 5
       - HK 6
-      - SG 3
-      - KR 2
-      - KR 3
-      - JP 3
       - US
       - US 2
       - US 3
@@ -465,29 +465,29 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - NL
-      - DE
-      - GB
-      - SG
-      - HK
-      - SG 2
-      - HK 2
-      - DK
-      - GB 2
-      - IN
-      - JP
       - TW
-      - TW 2
-      - JP 2
+      - JP
       - KR
+      - DE
+      - DE 2
+      - ID
+      - CA
+      - PH
+      - MY
+      - HK
+      - JP 2
+      - JP 3
+      - TW 2
+      - SG
+      - SG 2
+      - SG 3
+      - KR 2
+      - KR 3
+      - HK 2
       - HK 3
       - HK 4
       - HK 5
       - HK 6
-      - SG 3
-      - KR 2
-      - KR 3
-      - JP 3
       - US
       - US 2
       - US 3
@@ -498,29 +498,29 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - NL
-      - DE
-      - GB
-      - SG
-      - HK
-      - SG 2
-      - HK 2
-      - DK
-      - GB 2
-      - IN
-      - JP
       - TW
-      - TW 2
-      - JP 2
+      - JP
       - KR
+      - DE
+      - DE 2
+      - ID
+      - CA
+      - PH
+      - MY
+      - HK
+      - JP 2
+      - JP 3
+      - TW 2
+      - SG
+      - SG 2
+      - SG 3
+      - KR 2
+      - KR 3
+      - HK 2
       - HK 3
       - HK 4
       - HK 5
       - HK 6
-      - SG 3
-      - KR 2
-      - KR 3
-      - JP 3
       - US
       - US 2
       - US 3
